@@ -1,0 +1,32 @@
+_repo: '---_27026'
+_version: 0.1.0
+alternative_title:
+- Yan Yi Bian
+- 艷異編
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wang, Shizhen
+    birthdate: 1526
+    deathdate: 1590
+    gutenberg_agent_id: '32387'
+    url: http://www.gutenberg.org/2009/agents/32387
+description: ''
+gutenberg_issued: '2008-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27026'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction -- 960-1644'
+- !lcsh 'Chinese fiction -- Ming dynasty, 1368-1644'
+- !lcsh 'Short stories, Chinese'
+- !lcc 'PL'
+- !lcsh 'Chinese fiction -- Tang dynasty, 618-907'
+title: 豔異編
+url: http://www.gutenberg.org/ebooks/27026
